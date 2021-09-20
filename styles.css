@@ -38,10 +38,10 @@ p {
 
 .plan-details {
   background: hsl(225, 100%, 98%);
-  /* margin: 10px 50px; */
+  margin: 10px 50px;
   border-radius: 10px;
   display: flex;
-  /* padding: 10px; */
+  padding: 10px;
   justify-content: space-between;
   align-items: center;
 }
